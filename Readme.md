@@ -99,5 +99,5 @@ Once the node that owns the <k,v> pair is identified, the value can be stored on
 ## Testing
 
 I have tested the current algorithm with 32 nodes i.e 6 Bit Node identifier, view all test cases `src/test/kademila.test.ts`
-
+<img width="411" height="271" alt="Image" src="https://github.com/user-attachments/assets/11ee4497-b2b1-4ac8-b8f0-d751e7844a6d" />
 
